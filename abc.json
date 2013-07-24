@@ -1,0 +1,14 @@
+{
+    "name": "checkbox",
+    "version": "1.4",
+    "desc": "checkbox beautiful",
+    "cover": "",
+    "tag":"",
+    "author": {
+        "name": "sirzxj",
+        "email": "sirzxj@126.com",
+        "page": "http://github.com/sirzxj"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
